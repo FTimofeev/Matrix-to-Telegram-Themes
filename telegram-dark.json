@@ -33,7 +33,7 @@
         "link-color": "#e8eef2",
         "timeline-link-color": "#e8eef2",
         "primary-color": "#e8eef2",
-        "username-colors": ["#7f91a4", "#6fa8dc", "#7cb342", "#e67e22", "#8e44ad", "#c0392b"]
+        "username-colors": ["#7f91a4", "#7c9eb2", "#8aa87d", "#d6a46b", "#b5838a", "#9b8da6"]
     },
     "compound": {
         "--cpd-color-theme-bg": "#17212b",
