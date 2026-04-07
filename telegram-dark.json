@@ -1,23 +1,22 @@
 {
-    "show_labs_settings": true,
-    "setting_defaults": {
-        "custom_themes": [
-            {
-                "name": "Telegram Dark",
-                "is_dark": true,
-                "colors": {
-                    "accent-color": "#3390ec",
-                    "primary-color": "#3390ec",
-                    "warning-color": "#fa6b48",
-                    "sidebar-color": "#17212b",
-                    "roomlist-background-color": "#17212b",
-                    "roomlist-text-color": "#e8eef2",
-                    "roomlist-text-secondary-color": "#7f91a4",
-                    "timeline-background-color": "#0e1621",
-                    "timeline-text-color": "#e8eef2",
-                    "timeline-text-secondary-color": "#7f91a4"
-                }
-            }
-        ]
-    }
+        "name": "Dracula Fedor",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#bd93f9",
+          "primary-color": "#bd93f9",
+          "warning-color": "#bd93f9",
+          "sidebar-color": "#1e1f29",
+          "roomlist-background-color": "#1e1f29",
+          "roomlist-text-color": "#eeeeee",
+          "roomlist-text-secondary-color": "#eeeeee",
+          "roomlist-highlights-color": "#00000030",
+          "roomlist-separator-color": "#00000000",
+          "timeline-background-color": "#1e1f29",
+          "timeline-text-color": "#eeeeee",
+          "secondary-content": "#eeeeee",
+          "tertiary-content": "#eeeeee",
+          "timeline-text-secondary-color": "#dddddd",
+          "timeline-highlights-color": "#00000030",
+          "reaction-row-button-selected-bg-color": "#b9bbbe"
+        }
 }
