@@ -4,12 +4,14 @@
 
 1. Сначала нужно создать в папке %APPDATA%\Element файл config.json со следующим содержимым:
 
+```json
 {
     "show_labs_settings": true,
     "setting_defaults": {
         "custom_themes": []
     }
 }
+```
 
 Данный код включает сторонние темы в Element.
 
