@@ -28,7 +28,8 @@
         "eventbubble-self-bg": "#3390ec",
         "eventbubble-others-bg": "#1f2c38",
         "eventbubble-self-bg-hover": "#3f9eec",
-        "eventbubble-others-bg-hover": "#2a3a4e"
+        "eventbubble-others-bg-hover": "#2a3a4e",
+        "backgroundColor": "#3390ec"
     },
     "compound": {
         "--cpd-color-theme-bg": "#17212b",
