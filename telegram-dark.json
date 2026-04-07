@@ -32,7 +32,8 @@
         "backgroundColor": "#2b5278",
         "link-color": "#e8eef2",
         "timeline-link-color": "#e8eef2",
-        "primary-color": "#e8eef2"
+        "primary-color": "#e8eef2",
+        "username-colors": ["#7f91a4", "#6fa8dc", "#7cb342", "#e67e22", "#8e44ad", "#c0392b"]
     },
     "compound": {
         "--cpd-color-theme-bg": "#17212b",
