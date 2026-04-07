@@ -31,7 +31,8 @@
         "eventbubble-others-bg-hover": "#2a3a4e",
         "backgroundColor": "#2b5278",
         "link-color": "#e8eef2",
-        "timeline-link-color": "#e8eef2"
+        "timeline-link-color": "#e8eef2",
+        "primary-color": "#e8eef2"
     },
     "compound": {
         "--cpd-color-theme-bg": "#17212b",
