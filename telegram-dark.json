@@ -9,9 +9,6 @@
         "alert": "#fa6b48",
         "sidebar-color": "#17212b",
         "roomlist-background-color": "#17212b",
-        "roomlist-header-background-color": "#17212b",
-        "roomlist-panel-background-color": "#17212b",
-        "left-panel-background-color": "#17212b",
         "roomlist-text-color": "#e8eef2",
         "roomlist-text-secondary-color": "#7f91a4",
         "roomlist-highlights-color": "#2b5278",
@@ -59,5 +56,8 @@
         "--cpd-color-border-interactive-secondary": "#2b3b4e",
         "--cpd-color-border-critical-primary": "#fa6b48",
         "--cpd-color-border-success-subtle": "#2b5278"
+    },
+    "styles": {
+        ".mx_LeftPanel, .mx_RoomList, .mx_RoomSublist, .mx_SpaceTreeLevel": "background-color: #17212b !important;"
     }
 }
