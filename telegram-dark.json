@@ -1,8 +1,9 @@
 {
-    "name": "Telegram Dark Fedor",
+    "name": "Telegram Dark",
     "is_dark": true,
     "colors": {
         "accent-color": "#3390ec",
+        "accent": "#3390ec",
         "primary-color": "#3390ec",
         "warning-color": "#fa6b48",
         "alert": "#fa6b48",
@@ -23,7 +24,11 @@
         "focus-bg-color": "#3390ec",
         "room-highlight-color": "#3390ec",
         "other-user-pill-bg-color": "#3390ec",
-        "togglesw-off-color": "#3d4e62"
+        "togglesw-off-color": "#3d4e62",
+        "eventbubble-self-bg": "#3390ec",
+        "eventbubble-others-bg": "#1f2c38",
+        "eventbubble-self-bg-hover": "#3f9eec",
+        "eventbubble-others-bg-hover": "#2a3a4e"
     },
     "compound": {
         "--cpd-color-theme-bg": "#17212b",
