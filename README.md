@@ -21,7 +21,7 @@
 
 ссылки на:
 
-Темную тему: https://raw.githubusercontent.com/FTimofeev/Matrix-to-Telegram-Themes/refs/heads/main/telegram-dark.json
+Темную тему: https://raw.githubusercontent.com/FTimofeev/Matrix-to-Telegram-Themes/refs/heads/main/telegram-dark.json  
 Светлую тему: https://raw.githubusercontent.com/FTimofeev/Matrix-to-Telegram-Themes/refs/heads/main/telegram-light.json
 
 3. Наслаждаться
