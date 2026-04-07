@@ -39,7 +39,7 @@
         "--cpd-color-theme-bg": "#17212b",
         "--cpd-color-bg-canvas-default": "#0e1621",
         "--cpd-color-bg-subtle-secondary": "#17212b",
-        "--cpd-color-bg-subtle-primary": "#0e1621",
+        "--cpd-color-bg-subtle-primary": "#1f2c38",
         "--cpd-color-bg-action-primary-rest": "#2b5278",
         "--cpd-color-bg-action-secondary-rest": "#17212b",
         "--cpd-color-bg-critical-primary": "#fa6b48",
