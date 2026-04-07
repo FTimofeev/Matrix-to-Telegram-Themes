@@ -1,0 +1,23 @@
+{
+    "show_labs_settings": true,
+    "setting_defaults": {
+        "custom_themes": [
+            {
+                "name": "Telegram Dark",
+                "is_dark": true,
+                "colors": {
+                    "accent-color": "#3390ec",
+                    "primary-color": "#3390ec",
+                    "warning-color": "#fa6b48",
+                    "sidebar-color": "#17212b",
+                    "roomlist-background-color": "#17212b",
+                    "roomlist-text-color": "#e8eef2",
+                    "roomlist-text-secondary-color": "#7f91a4",
+                    "timeline-background-color": "#0e1621",
+                    "timeline-text-color": "#e8eef2",
+                    "timeline-text-secondary-color": "#7f91a4"
+                }
+            }
+        ]
+    }
+}
