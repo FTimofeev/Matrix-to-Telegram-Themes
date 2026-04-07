@@ -58,6 +58,7 @@
         "--cpd-color-border-interactive-primary": "#1f2c38",
         "--cpd-color-border-interactive-secondary": "#2b3b4e",
         "--cpd-color-border-critical-primary": "#fa6b48",
-        "--cpd-color-border-success-subtle": "#2b5278"
+        "--cpd-color-border-success-subtle": "#2b5278",
+        "--cpd-color-bg-action-tertiary-selected": "#2b5278"
     }
 }
