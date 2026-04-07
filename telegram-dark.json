@@ -33,6 +33,7 @@
         "link-color": "#e8eef2",
         "timeline-link-color": "#e8eef2",
         "primary-color": "#e8eef2",
+        "timeline-highlights-color": "#0e1621",
         "username-colors": ["#6c757d", "#7a8288", "#858e96", "#6b7c8a", "#7a8694", "#6f7a82"]
     },
     "compound": {
