@@ -30,6 +30,9 @@
         "eventbubble-self-bg-hover": "#3f9eec",
         "eventbubble-others-bg-hover": "#2a3a4e",
         "backgroundColor": "#2b5278",
+        "link-color": "#e8eef2",
+        "timeline-link-color": "#e8eef2",
+        "primary-color": "#e8eef2",
         "username-colors": ["#6c757d", "#7a8288", "#858e96", "#6b7c8a", "#7a8694", "#6f7a82"]
     },
     "compound": {
@@ -56,8 +59,5 @@
         "--cpd-color-border-interactive-secondary": "#2b3b4e",
         "--cpd-color-border-critical-primary": "#fa6b48",
         "--cpd-color-border-success-subtle": "#2b5278"
-    },
-    "styles": {
-        ".mx_LeftPanel, .mx_RoomList, .mx_RoomSublist, .mx_SpaceTreeLevel": "background-color: #17212b !important;"
     }
 }
