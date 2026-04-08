@@ -71,6 +71,7 @@
         "--cpd-color-text-tooltip": "#e8eef2",
         "--cpd-color-bg-informative": "#2b5278",
         "--cpd-color-text-informative": "#e8eef2",
-        "--cpd-color-alpha-gray-1400": "#2b5278"
+        "--cpd-color-alpha-gray-1400": "rgba(43, 82, 120, 0.95)",
+        "--cpd-color-gray-1400": "#2b5278"
     }
 }
