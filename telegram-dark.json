@@ -51,6 +51,7 @@
         "--cpd-color-text-action-accent": "#e8eef2",
         "--cpd-color-text-critical-primary": "#fa6b48",
         "--cpd-color-text-success-primary": "#2b5278",
+        "--cpd-color-text-on-primary": "#e8eef2",
         "--cpd-color-icon-primary": "#e8eef2",
         "--cpd-color-icon-secondary": "#7f91a4",
         "--cpd-color-icon-tertiary": "#5e6f8d",
