@@ -25,7 +25,7 @@
         "room-highlight-color": "#2b5278",
         "other-user-pill-bg-color": "#00b9fb",
         "togglesw-off-color": "#3d4e62",
-        "eventbubble-self-bg": "#00b9fb",
+        "eventbubble-self-bg": "#2b5278",
         "eventbubble-others-bg": "#1f2c38",
         "eventbubble-self-bg-hover": "#3f9eec",
         "eventbubble-others-bg-hover": "#2a3a4e",
