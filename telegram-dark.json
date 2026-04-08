@@ -4,13 +4,13 @@
     "colors": {
         "accent-color": "#2b5278",
         "accent": "#2b5278",
-        "primary-color": "#2b5278",
+        "primary-color": "#e8eef2",
         "warning-color": "#fa6b48",
         "alert": "#fa6b48",
         "sidebar-color": "#17212b",
         "roomlist-background-color": "#17212b",
-        "roomlist-text-color": "#e8eef2",
-        "roomlist-text-secondary-color": "#7f91a4",
+        "roomlist-text-color": "#f0f4f8",
+        "roomlist-text-secondary-color": "#b8c8dc",
         "roomlist-highlights-color": "#2b5278",
         "roomlist-separator-color": "#1f2c38",
         "timeline-background-color": "#0e1621",
@@ -32,9 +32,8 @@
         "backgroundColor": "#2b5278",
         "link-color": "#e8eef2",
         "timeline-link-color": "#e8eef2",
-        "primary-color": "#e8eef2",
-        "timeline-highlights-color": "#0e1621",
-        "username-colors": ["#6c757d", "#7a8288", "#858e96", "#6b7c8a", "#7a8694", "#6f7a82"]
+        "username-colors": ["#6c757d", "#7a8288", "#858e96", "#6b7c8a", "#7a8694", "#6f7a82"],
+        "notification-badge-bg-color": "#2b5278"
     },
     "compound": {
         "--cpd-color-theme-bg": "#17212b",
@@ -56,6 +55,7 @@
         "--cpd-color-icon-secondary": "#7f91a4",
         "--cpd-color-icon-tertiary": "#5e6f8d",
         "--cpd-color-icon-accent-tertiary": "#2b5278",
+        "--cpd-color-icon-success-primary": "#2b5278",
         "--cpd-color-border-interactive-primary": "#1f2c38",
         "--cpd-color-border-interactive-secondary": "#2b3b4e",
         "--cpd-color-border-critical-primary": "#fa6b48",
@@ -63,6 +63,7 @@
         "--cpd-color-bg-action-tertiary-selected": "#2b5278",
         "--cpd-color-bg-action-secondary-hovered": "#0e1621",
         "--cpd-color-bg-action-primary-hovered": "#0e1621",
-        "--cpd-color-bg-action-tertiary-hovered": "#0e1621"
+        "--cpd-color-bg-action-tertiary-hovered": "#0e1621",
+        "--cpd-color-badge-bg-level1": "#2b5278"
     }
 }
