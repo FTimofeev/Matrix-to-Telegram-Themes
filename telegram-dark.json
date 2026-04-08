@@ -68,6 +68,10 @@
         "--cpd-color-badge-bg-level1": "#2b5278",
         "--cpd-color-text-action-accent": "#e8eef2",
         "--cpd-color-text-on-solid-primary": "#e8eef2",
-        "--cpd-color-text-primary": "#e8eef2"        
+        "--cpd-color-text-primary": "#e8eef2",
+        "--cpd-color-badge-bg-level1": "#2b5278",
+        "--cpd-color-bg-accent-rest": "#2b5278",
+        "--cpd-color-icon-success-primary": "#2b5278",
+        "--cpd-color-bg-action-primary-rest": "#2b5278"
     }
 }
