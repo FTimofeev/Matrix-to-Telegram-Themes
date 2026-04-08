@@ -2,29 +2,22 @@
     "name": "Telegram Light Fedor",
     "is_dark": false,
     "colors": {
-        // Цвета для левой панели (список комнат)
-        "roomlist-text-color": "#ffffff",        // Белый текст комнат
-        "roomlist-background-color": "#293a4c",
-        "roomlist-text-secondary-color": "#00b9fb",
-        "roomlist-highlights-color": "#2b5278",
-        "roomlist-separator-color": "#293a4c",
-        
-        // Цвета для правой панели (чат)
-        "timeline-text-color": "#000000",        // Черный текст сообщений
-        "timeline-background-color": "#fafbfd",
-        "timeline-text-secondary-color": "#7f91a4",
-        "eventbubble-self-bg": "#effdde",
-        "eventbubble-others-bg": "#fafbfd",
-        
-        // Общие цвета
         "accent-color": "#00b9fb",
         "accent": "#00b9fb",
         "primary-color": "#000000",
         "warning-color": "#fa6b48",
         "alert": "#fa6b48",
         "sidebar-color": "#293a4c",
+        "roomlist-background-color": "#293a4c",
+        "roomlist-text-color": "#ffffff",
+        "roomlist-text-secondary-color": "#00b9fb",
+        "roomlist-highlights-color": "#2b5278",
+        "roomlist-separator-color": "#293a4c",
+        "timeline-background-color": "#fafbfd",
+        "timeline-text-color": "#000000",
         "secondary-content": "#000000",
         "tertiary-content": "#7f91a4",
+        "timeline-text-secondary-color": "#7f91a4",
         "timeline-highlights-color": "#f0f4f8",
         "reaction-row-button-selected-bg-color": "#00b9fb",
         "menu-selected-color": "#2b5278",
@@ -32,6 +25,8 @@
         "room-highlight-color": "#2b5278",
         "other-user-pill-bg-color": "#00b9fb",
         "togglesw-off-color": "#bcc4cc",
+        "eventbubble-self-bg": "#effdde",
+        "eventbubble-others-bg": "#fafbfd",
         "eventbubble-self-bg-hover": "#e0f5cc",
         "eventbubble-others-bg-hover": "#f5f7fa",
         "backgroundColor": "#00b9fb",
@@ -41,23 +36,6 @@
         "notification-badge-bg-color": "#00b9fb"
     },
     "compound": {
-        // --- ОСНОВНЫЕ НАСТРОЙКИ ТЕКСТА ---
-        "--cpd-color-text-primary": "#ffffff",        // ← ИСПРАВЛЕНО: теперь текст ВСЕГО ИНТЕРФЕЙСА (кнопки, меню) будет БЕЛЫМ.
-        "--cpd-color-text-secondary": "#7f91a4",
-        "--cpd-color-text-action-accent": "#ffffff",
-        "--cpd-color-text-on-solid-primary": "#ffffff",
-        "--cpd-color-text-critical-primary": "#fa6b48",
-        "--cpd-color-text-success-primary": "#00b9fb",
-
-        // --- НАСТРОЙКИ ЦВЕТА ИКОНОК ---
-        "--cpd-color-icon-primary": "#ffffff",        // Иконки в интерфейсе тоже станут белыми.
-        "--cpd-color-icon-secondary": "#7f91a4",
-        "--cpd-color-icon-tertiary": "#bcc4cc",
-        "--cpd-color-icon-accent-tertiary": "#00b9fb",
-        "--cpd-color-icon-success-primary": "#00b9fb",
-        "--cpd-color-icon-critical-primary": "#fa6b48",
-
-        // --- НАСТРОЙКИ ФОНОВ И ГРАНИЦ ---
         "--cpd-color-theme-bg": "#293a4c",
         "--cpd-color-bg-canvas-default": "#293a4c",
         "--cpd-color-bg-subtle-secondary": "#fafbfd",
@@ -68,6 +46,24 @@
         "--cpd-color-bg-critical-subtle": "#fef3f0",
         "--cpd-color-bg-critical-hovered": "#fa6b48",
         "--cpd-color-bg-accent-rest": "#00b9fb",
+        "--cpd-color-text-primary": "#ffffff",
+        "--cpd-color-text-secondary": "#7f91a4",
+        "--cpd-color-text-action-accent": "#ffffff",
+        "--cpd-color-text-critical-primary": "#fa6b48",
+        "--cpd-color-text-success-primary": "#00b9fb",
+        "--cpd-color-text-on-solid-primary": "#ffffff",
+        "--cpd-color-icon-primary": "#ffffff",
+        "--cpd-color-icon-secondary": "#7f91a4",
+        "--cpd-color-icon-tertiary": "#bcc4cc",
+        "--cpd-color-icon-accent-tertiary": "#00b9fb",
+        "--cpd-color-icon-success-primary": "#00b9fb",
+        "--cpd-color-icon-critical-primary": "#fa6b48",
+        "--cpd-color-border-interactive-primary": "#293a4c",
+        "--cpd-color-border-interactive-secondary": "#293a4c",
+        "--cpd-color-border-subtle": "#293a4c",
+        "--cpd-color-border-disabled": "#293a4c",
+        "--cpd-color-border-critical-primary": "#fa6b48",
+        "--cpd-color-border-success-subtle": "#00b9fb",
         "--cpd-color-bg-action-tertiary-selected": "#2b5278",
         "--cpd-color-bg-action-secondary-hovered": "#fafbfd",
         "--cpd-color-bg-action-primary-hovered": "#3f9eec",
@@ -76,14 +72,6 @@
         "--cpd-color-bg-tooltip": "#0e1621",
         "--cpd-color-text-tooltip": "#ffffff",
         "--cpd-color-bg-informative": "#00b9fb",
-        "--cpd-color-text-informative": "#ffffff",
-
-        // --- НАСТРОЙКИ ГРАНИЦ ---
-        "--cpd-color-border-interactive-primary": "#293a4c",
-        "--cpd-color-border-interactive-secondary": "#293a4c",
-        "--cpd-color-border-subtle": "#293a4c",
-        "--cpd-color-border-disabled": "#293a4c",
-        "--cpd-color-border-critical-primary": "#fa6b48",
-        "--cpd-color-border-success-subtle": "#00b9fb"
+        "--cpd-color-text-informative": "#ffffff"
     }
 }
