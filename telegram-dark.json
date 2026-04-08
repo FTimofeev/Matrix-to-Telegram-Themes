@@ -70,6 +70,7 @@
         "--cpd-color-bg-tooltip": "#2b5278",
         "--cpd-color-text-tooltip": "#e8eef2",
         "--cpd-color-bg-informative": "#2b5278",
-        "--cpd-color-text-informative": "#e8eef2"
+        "--cpd-color-text-informative": "#e8eef2",
+        "--cpd-color-alpha-gray-1400": "#2b5278"
     }
 }
