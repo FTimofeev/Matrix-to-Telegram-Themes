@@ -73,6 +73,10 @@
         "--cpd-color-text-informative": "#ffffff",
         "--cpd-color-bg-action-primary-selected": "#e8f4fe",
         "--cpd-color-text-primary-hovered": "#000000",
-        "--cpd-color-bg-subtle-primary-hovered": "#e8f4fe"
+        "--cpd-color-text-secondary-hovered": "#000000",
+        "--cpd-color-text-action-accent-hovered": "#000000",
+        "--cpd-color-icon-primary-hovered": "#000000",
+        "--cpd-color-icon-secondary-hovered": "#000000",
+        "--cpd-color-text-on-solid-primary-hovered": "#000000"
     }
 }
