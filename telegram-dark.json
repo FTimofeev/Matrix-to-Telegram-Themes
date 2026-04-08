@@ -66,6 +66,8 @@
         "--cpd-color-bg-action-primary-hovered": "#3f9eec",
         "--cpd-color-bg-action-tertiary-hovered": "#0e1621",
         "--cpd-color-badge-bg-level1": "#2b5278",
-        "--cpd-color-text-action-accent": "#e8eef2"
+        "--cpd-color-text-action-accent": "#e8eef2",
+        "--cpd-color-text-on-solid-primary": "#e8eef2",
+        "--cpd-color-text-primary": "#e8eef2",        
     }
 }
