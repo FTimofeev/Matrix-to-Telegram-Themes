@@ -51,7 +51,7 @@
         "--cpd-color-text-action-accent": "#000000",
         "--cpd-color-text-critical-primary": "#fa6b48",
         "--cpd-color-text-success-primary": "#2aab6e",
-        "--cpd-color-text-on-solid-primary": "#ffffff",
+        "--cpd-color-text-on-solid-primary": "#ffff00",
         "--cpd-color-icon-primary": "#000000",
         "--cpd-color-icon-secondary": "#7f91a4",
         "--cpd-color-icon-tertiary": "#bcc4cc",
@@ -68,15 +68,15 @@
         "--cpd-color-bg-action-tertiary-hovered": "#f5f7fa",
         "--cpd-color-badge-bg-level1": "#2aab6e",
         "--cpd-color-bg-tooltip": "#0e1621",
-        "--cpd-color-text-tooltip": "#ffffff",
+        "--cpd-color-text-tooltip": "#ffff00",
         "--cpd-color-bg-informative": "#2aab6e",
-        "--cpd-color-text-informative": "#ffffff",
+        "--cpd-color-text-informative": "#ffff00",
         "--cpd-color-bg-action-primary-selected": "#e8f4fe",
         "--cpd-color-text-primary-hovered": "#000000",
         "--cpd-color-text-secondary-hovered": "#000000",
         "--cpd-color-text-action-accent-hovered": "#000000",
         "--cpd-color-icon-primary-hovered": "#000000",
         "--cpd-color-icon-secondary-hovered": "#000000",
-        "--cpd-color-text-on-solid-primary-hovered": "#000000"
+        "--cpd-color-text-on-solid-primary-hovered": "#ffff00"
     }
 }
