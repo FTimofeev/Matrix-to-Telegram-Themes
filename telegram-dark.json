@@ -51,7 +51,7 @@
         "--cpd-color-text-action-accent": "#e8eef2",
         "--cpd-color-text-critical-primary": "#fa6b48",
         "--cpd-color-text-success-primary": "#2b5278",
-        "--cpd-color-text-on-primary": "#e8eef2",
+        "--cpd-color-text-on-solid-primary": "#e8eef2",
         "--cpd-color-icon-primary": "#e8eef2",
         "--cpd-color-icon-secondary": "#7f91a4",
         "--cpd-color-icon-tertiary": "#5e6f8d",
@@ -63,7 +63,7 @@
         "--cpd-color-border-success-subtle": "#2b5278",
         "--cpd-color-bg-action-tertiary-selected": "#2b5278",
         "--cpd-color-bg-action-secondary-hovered": "#0e1621",
-        "--cpd-color-bg-action-primary-hovered": "#0e1621",
+        "--cpd-color-bg-action-primary-hovered": "#3f9eec",
         "--cpd-color-bg-action-tertiary-hovered": "#0e1621",
         "--cpd-color-badge-bg-level1": "#2b5278"
     }
